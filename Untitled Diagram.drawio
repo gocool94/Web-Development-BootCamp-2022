@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" modified="2022-11-09T08:23:21.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="aifgDVE2lxYA9EHOy9R3" version="20.5.3" type="github">
+  <diagram id="qfaCqi-v7_LqpRkw3eeV" name="Page-1">
+    <mxGraphModel dx="782" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="4LaW5wUUnL0rY_HdfW9R-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="30" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-2" value="Name&lt;br&gt;Designation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="630" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-3" value="Experiences" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="630" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-4" value="Amazon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-5" value="Cisco" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-6" value="Xyram" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-7" value="Hobbies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="630" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-8" value="Cricket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-9" value="Trekking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-10" value="stargazing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-11" value="Tools &amp;amp; language Experience" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="550" width="630" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-12" value="Front-End" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="640" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-13" value="Back-End" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-14" value="Tools" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="640" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-15" value="Profiles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="810" width="630" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-16" value="Github" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-17" value="Hackerrank" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-18" value="Leetcode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-19" value="GeeksforGeeks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-20" value="InterviewBit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LaW5wUUnL0rY_HdfW9R-23" value="personal portfolio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="5" width="390" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
